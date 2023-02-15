@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javadoc","c":"SquareNum","l":"getNumber()"},{"p":"javadoc","c":"SquareNum","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"javadoc","c":"SquareNum","l":"square(double)"},{"p":"javadoc","c":"SquareNum","l":"SquareNum()","u":"%3Cinit%3E()"}];updateSearchResults();
